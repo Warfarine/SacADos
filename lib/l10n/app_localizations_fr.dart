@@ -15,7 +15,7 @@ class AppLocalizationsFr extends AppLocalizations {
   String get afPrevention => '● Gardez vos pieds propres et secs\n● Changez vos bas régulièrement 🧦\n● Bien sécher la peau entre les orteils\n● Utilisez des poudres asséchantes au besoin\n● Si disponible, portez des sandales dans les douches communes 🩴\n● Ne partagez pas vos vêtements ou serviettes avec les autres';
 
   @override
-  String get afPreventionWarning => '● Ne grattez pas vos pieds\n● Gardez vos pieds propres et secs\n● Consultez un médecin en cas de signes d’infection ou si vous avez d’autres problèmes de santé comme le diabète ou des troubles de la circulation';
+  String get afPreventionWarning => '● Ne grattez pas vos pieds\n● Gardez vos pieds propres et secs\n● Consultez un médecin en cas de signes d’infection ou si vous avez d’autres problèmes de santé comme le diabète ou des troubles de circulation';
 
   @override
   String get afTxHeader => 'Traitements pour le pied d\'athlète';
@@ -126,7 +126,7 @@ class AppLocalizationsFr extends AppLocalizations {
   String get blisterPrevention => '● Portez des souliers et des bas à votre taille 👟🥾 ni trop grands ni trop serrés\n● Mettez toujours des bas avec vos souliers 🧦\n● Gardez vos pieds secs puisque les pieds humides sont plus sujets aux ampoules';
 
   @override
-  String get blisterPreventionWarning => 'Consultez toujours un médecin si vous remarquez des signes d’infection ou vous avez des problèmes de santé comme le diabète ou des troubles de la circulation';
+  String get blisterPreventionWarning => 'Consultez toujours un médecin si vous remarquez des signes d’infection ou vous avez des problèmes de santé comme le diabète ou des troubles de circulation';
 
   @override
   String get blisterSxHeader => 'Symptômes d\'ampouples';
@@ -216,7 +216,7 @@ class AppLocalizationsFr extends AppLocalizations {
   String get callus => 'Cors et callosités';
 
   @override
-  String get callusDef => 'Les callosités sont de grandes zones de peau épaissies. Les cors sont généralement de plus petites zones durcies qui peuvent être douloureuses. Les deux apparaissent à cause de pressions ou frottements répétés sur le pied (par exemple, à cause de souliers trop grands ou trop petits)';
+  String get callusDef => 'Les callosités sont de grandes zones de peau épaissie. Les cors sont généralement de plus petites zones durcies qui peuvent être douloureuses. Les deux apparaissent à cause de frottements répétés sur le pied (par exemple, à cause de souliers trop grands ou trop petits)';
 
   @override
   String get callusLabel => 'Épaississement de la peau du pied';
@@ -234,7 +234,7 @@ class AppLocalizationsFr extends AppLocalizations {
   String get callusImage3 => 'Callosités. La peau est épaissie avec de petites fissures sur les talons';
 
   @override
-  String get callusImage4 => 'Cors. Petite bosse dure et foncée sur l’orteil.';
+  String get callusImage4 => 'Cors. Petite bosse dure et foncée sur l’orteil';
 
   @override
   String get callusImage5 => 'Cors. Petite bosse dure avec de la peau qui pèle et un peu de rougeur autour de l’orteil';
@@ -249,7 +249,7 @@ class AppLocalizationsFr extends AppLocalizations {
   String get callusPrevention => '● Choisissez des souliers et des bas à votre taille — pas trop grands, pas trop serrés 👟🥾 Les orteils devraient être capables de bien bouger\n● Mettez toujours des bas avec vos souliers 🧦\n● Évitez de marcher pieds nus\n● Gardez vos pieds propres et secs';
 
   @override
-  String get callusPreventionWarning => 'Consultez toujours un médecin si vous remarquez des signes d’infection ou si vous avez d’autres problèmes de santé comme le diabète ou des troubles de la circulation';
+  String get callusPreventionWarning => 'Consultez toujours un médecin si vous remarquez des signes d’infection ou si vous avez d’autres problèmes de santé comme le diabète ou des troubles de circulation';
 
   @override
   String get callusSxHeader => 'Symptômes des cors et callosités';
@@ -438,16 +438,16 @@ class AppLocalizationsFr extends AppLocalizations {
   String get infection2 => 'Peau plus foncée et enflée par rapport à l\'autre jambe';
 
   @override
-  String get infection3 => 'Rougeur et enflure qui s\'étendent de la plaie; écoulement jaunâtre';
+  String get infection3 => 'Rougeur et enflure qui s\'étendent de la plaie';
 
   @override
   String get infection4 => 'Peau foncée avec une inflammation importante';
 
   @override
-  String get infection5 => 'Rougeur et gonflement s\'étendent de la plaie; écoulement épais jaune-vert';
+  String get infection5 => 'Rougeur et enflure qui s\'étendent de la plaie; écoulement épais jaune-vert';
 
   @override
-  String get infection6 => 'Peau est plus sombre et très enflée';
+  String get infection6 => 'Peau plus sombre et très enflée';
 
   @override
   String get infectionImages => 'Cliquez ici pour voir des images d\'infections de la peau';
@@ -534,7 +534,7 @@ class AppLocalizationsFr extends AppLocalizations {
   String get ingrownNailPreventionHeader => 'Prévenir les ongles incarnés';
 
   @override
-  String get ingrownNailPrevention => '● Coupez toujours vos ongles de pied avec un vrai coupe-ongles\n● Coupez vos ongles bien droit — ce n’est pas grave si les coins sont un peu plus longs\n● Ne pas arrondir les ongles, ça peut justement les faire courber\n● Utilisez une lime à ongles pour adoucir les coins pointus\n● Évitez de porter des souliers ou des bas trop serrés';
+  String get ingrownNailPrevention => '● Coupez toujours vos ongles de pied avec un coupe-ongle approprié\n● Coupez vos ongles bien droit — ce n’est pas grave si les coins sont un peu plus longs\n● Ne pas arrondir les ongles, ça peut justement les faire courber\n● Utilisez une lime à ongles pour adoucir les coins pointus\n● Évitez de porter des souliers ou des bas trop serrés';
 
   @override
   String get ingrownNailSxHeader => 'Symptôme d\'ongles incarnés';
@@ -714,7 +714,7 @@ class AppLocalizationsFr extends AppLocalizations {
   String get sxOfInfectionHeader => 'Symptômes d\'infection';
 
   @override
-  String get sxOfInfection => '● La peau est rouge ou plus foncée que normale 🔴\n● Enflure\n● Sensation de chaleur 🔥\n● Douleur\n● Mauvaise odeur\n● Présence de pus (liquide épais, jaune, verdâtre ou gris)\n● Fièvre 🤒';
+  String get sxOfInfection => '● La peau est rouge ou plus foncée que normale 🔴\n● Enflure\n● Sensation de chaleur 🔥\n● Douleur\n● Mauvaise odeur\n● Présence de pus (liquide épais jaune, verdâtre ou gris)\n● Fièvre 🤒';
 
   @override
   String get whatInfection => 'Une infection survient quand des bactéries (germes) entrent dans une plaie. Ça peut être dangereux pour la santé';

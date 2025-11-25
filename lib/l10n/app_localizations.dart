@@ -104,7 +104,7 @@ abstract class AppLocalizations {
   /// Prevention steps for athlete's foot
   ///
   /// In en, this message translates to:
-  /// **'● Keep feet dry and clean\n● Change your socks often 🧦\n●Focus on drying the skin between the toes\n● You can use drying foot powders to help keep feet dry\n● When using shared showers, try to wear sandals or flip—flops 🩴\n● Do not share clothing or towels with others'**
+  /// **'● Keep feet dry and clean\n● Change your socks often 🧦\n● Focus on drying the skin between the toes\n● You can use drying foot powders to help keep feet dry\n● When using shared showers, try to wear sandals or flip-flops 🩴\n● Do not share clothing or towels with others'**
   String get afPrevention;
 
   /// Warning steps if athlete's foot appears
@@ -128,7 +128,7 @@ abstract class AppLocalizations {
   /// Athlete's foot image 1
   ///
   /// In en, this message translates to:
-  /// **'Visible red and irritated patches, especially around the toes; peeling skin'**
+  /// **'Red and irritated patches, especially around the toes; peeling skin'**
   String get afimage1;
 
   /// Athlete's foot image 2
@@ -254,7 +254,7 @@ abstract class AppLocalizations {
   /// bite images
   ///
   /// In en, this message translates to:
-  /// **'Infected bite wound; deep redness and swelling are spreading over the leg'**
+  /// **'Infected bite wound; redness and swelling are spreading over the leg'**
   String get bitesImage3;
 
   /// header for blisters
@@ -266,7 +266,7 @@ abstract class AppLocalizations {
   /// def for blisters
   ///
   /// In en, this message translates to:
-  /// **'Blisters are caused by repeated rubbing on the foot (for example, by wearing ill—fitting shoes)'**
+  /// **'Blisters are caused by repeated rubbing on the foot (for example, by wearing ill-fitting shoes)'**
   String get blisterDef;
 
   /// label for blisters
@@ -512,7 +512,7 @@ abstract class AppLocalizations {
   /// def for header
   ///
   /// In en, this message translates to:
-  /// **'Calluses are large patches of thickened skin. Corns are typically small, localized areas of hard skin that can be painful. Both occur because of repeated pressure or rubbing on the foot (for example, by wearing ill-fitting shoes)'**
+  /// **'Calluses are large patches of thickened skin. Corns are typically small, localized areas of hard skin that can be painful. Both occur because of repeated rubbing on the foot (for example, by wearing ill-fitting shoes)'**
   String get callusDef;
 
   /// def for header
@@ -956,7 +956,7 @@ abstract class AppLocalizations {
   /// Infection image 3
   ///
   /// In en, this message translates to:
-  /// **'Redness & swelling spreading from wound; yellowish discharge'**
+  /// **'Redness & swelling spreading from the wound'**
   String get infection3;
 
   /// Infection image 4
@@ -968,7 +968,7 @@ abstract class AppLocalizations {
   /// Infection image 5
   ///
   /// In en, this message translates to:
-  /// **'Redness & swelling spreading from wound; thick, yellow-green discharge'**
+  /// **'Redness & swelling spreading from the wound; thick, yellow-green discharge'**
   String get infection5;
 
   /// Infection image 6
@@ -1340,7 +1340,7 @@ abstract class AppLocalizations {
   /// normal wound info
   ///
   /// In en, this message translates to:
-  /// **'Normal wounds may have some redness and pain.\nThey might also have some discharge that is clear, light yellow or light pink'**
+  /// **'Normal wounds may have some redness and pain\nThey might also have some discharge that is clear, light yellow or light pink'**
   String get normalWound;
 
   /// general skin maintenance header
@@ -1364,7 +1364,7 @@ abstract class AppLocalizations {
   /// general skin maintenance — summer
   ///
   /// In en, this message translates to:
-  /// **'● Use hats 🧢, loose light-colored clothing, and stay in the shade\n● Wear sunscreen every day if you can, even if you have dark skin\n● Use sunscreen with an SPF of 30 or more. You need an amount of cream about the size of a 2\$ coin to cover your face\n● Reapply sunscreen at least every 2 hours 🧴☀️\n● Stay hydrated by drinking water 💧'**
+  /// **'● Use hats 🧢, loose and light-colored clothing, and stay in the shade\n● Wear sunscreen every day if you can, even if you have dark skin\n● Use sunscreen with an SPF of 30 or more. You need an amount of cream about the size of a 2\$ coin to cover your face\n● Reapply sunscreen at least every 2 hours 🧴☀️\n● Stay hydrated by drinking water 💧'**
   String get skinGeneralSummer;
 
   /// general skin maintenance — winter header
@@ -1430,7 +1430,7 @@ abstract class AppLocalizations {
   /// sunburn sx
   ///
   /// In en, this message translates to:
-  /// **'● Redness 🔴\n● Skin is hot to the touch 🔥\n● Pain\n● Symptoms usually develop several hours after being in the sun and can last a few days\n● After a few days, skin will begin to peel, this is expected'**
+  /// **'● Redness 🔴\n● Skin is hot to the touch 🔥\n● Pain\n● Symptoms usually develop several hours after being in the sun and can last a few days\n● After a few days, skin will begin to peel, this is normal'**
   String get sunburnSx;
 
   /// severe sunburn sx
@@ -1508,7 +1508,7 @@ abstract class AppLocalizations {
   /// sx of infections
   ///
   /// In en, this message translates to:
-  /// **'● Skin is red or darker than normal 🔴\n● Swelling\n● Warm feeling 🔥\n● Pain\n● Bad smell\n● Visible pus (thick, yellow, greenish or gray fluid)\n● Fever 🤒'**
+  /// **'● Skin is red or darker than normal 🔴\n● Swelling\n● Warm feeling 🔥\n● Pain\n● Bad smell\n● Visible pus (thick yellow, greenish or gray fluid)\n● Fever 🤒'**
   String get sxOfInfection;
 
   /// infection definition

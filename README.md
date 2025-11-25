@@ -1,16 +1,32 @@
-# test_app
+# Ma santé dans mon sac - DISCLAIMER
 
-A new Flutter project.
+Please note these are student products. Although we strive to ensure the products are accurate, ethical, and credible, by using the products, the user is responsible for possible errors, omissions and outcomes that can be present inadvertently.
 
-## Getting Started
+## REFERENCES 
+https://www.goodrx.com/conditions/wound-care/do-i-need-stitches#cuts-that-don-t-need-stitches 
 
-This project is a starting point for a Flutter application.
+https://www.merckmanuals.com/home/skin-disorders/bacterial-skin-infections/overview-of-bacterial-skin-infections 
 
-A few resources to get you started if this is your first Flutter project:
+https://www.nhs.uk/conditions/cuts-and-grazes/ 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://qicn.org.uk/wp-content/uploads/2016/09/The-Foot-Health-of-People-Experiencing-Homelessness-2020-1.pdf 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www-uptodate-com/contents/taking-care-of-cuts-scrapes-and-puncture-wounds-the-basics 
+
+https://www-uptodate-com/contents/laceration-infection-the-basics 
+
+https://www-uptodate-com/contents/sunburn 
+
+https://www-uptodate-com/contents/blisters-the-basics 
+
+https://www-uptodate-com/contents/staying-safe-in-the-sun-the-basics/ 
+
+https://www-uptodate-com/contents/sunburn-beyond-the-basics 
+
+## ICONS
+
+All icons sourced from: Flaticon.com
+
+## IMAGES
+
+Images sources from UpToDate, Shutterstock and https://skinsight.com/

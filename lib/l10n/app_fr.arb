@@ -8,7 +8,7 @@
   "@afPrevention": {
     "description": "prevention step for athlete's foot"
   },
-  "afPreventionWarning": "● Ne grattez pas vos pieds\n● Gardez vos pieds propres et secs\n● Consultez un médecin en cas de signes d’infection ou si vous avez d’autres problèmes de santé comme le diabète ou des troubles de la circulation",
+  "afPreventionWarning": "● Ne grattez pas vos pieds\n● Gardez vos pieds propres et secs\n● Consultez un médecin en cas de signes d’infection ou si vous avez d’autres problèmes de santé comme le diabète ou des troubles de circulation",
   "@afPreventionWarning": {
     "description": "steps if they catch af"
   },
@@ -156,7 +156,7 @@
   "@blisterPrevention": {
     "description": "prevention for blisters"
   },
-  "blisterPreventionWarning": "Consultez toujours un médecin si vous remarquez des signes d’infection ou vous avez des problèmes de santé comme le diabète ou des troubles de la circulation",
+  "blisterPreventionWarning": "Consultez toujours un médecin si vous remarquez des signes d’infection ou vous avez des problèmes de santé comme le diabète ou des troubles de circulation",
   "@blisterPreventionWarning": {
     "description": "prevention warning for blisters"
   },
@@ -276,7 +276,7 @@
   "@callus": {
     "description": "header for callus"
   },
-  "callusDef": "Les callosités sont de grandes zones de peau épaissies. Les cors sont généralement de plus petites zones durcies qui peuvent être douloureuses. Les deux apparaissent à cause de pressions ou frottements répétés sur le pied (par exemple, à cause de souliers trop grands ou trop petits)",
+  "callusDef": "Les callosités sont de grandes zones de peau épaissie. Les cors sont généralement de plus petites zones durcies qui peuvent être douloureuses. Les deux apparaissent à cause de frottements répétés sur le pied (par exemple, à cause de souliers trop grands ou trop petits)",
   "@callusDef": {
     "description": "def for header"
   },
@@ -300,7 +300,7 @@
   "@callusImage3": {
     "description": "images of corns & calluses"
   },
-  "callusImage4": "Cors. Petite bosse dure et foncée sur l’orteil.",
+  "callusImage4": "Cors. Petite bosse dure et foncée sur l’orteil",
   "@callusImage4": {
     "description": "images of corns & calluses"
   },
@@ -320,7 +320,7 @@
   "@callusPrevention": {
     "description": "prevention for calluses"
   },
-  "callusPreventionWarning": "Consultez toujours un médecin si vous remarquez des signes d’infection ou si vous avez d’autres problèmes de santé comme le diabète ou des troubles de la circulation",
+  "callusPreventionWarning": "Consultez toujours un médecin si vous remarquez des signes d’infection ou si vous avez d’autres problèmes de santé comme le diabète ou des troubles de circulation",
   "@callusPreventionWarning": {
     "description": "prevention warning for calluses"
   },
@@ -572,7 +572,7 @@
   "@infection2": {
     "description": "Infection image 2"
   },
-  "infection3": "Rougeur et enflure qui s'étendent de la plaie; écoulement jaunâtre",
+  "infection3": "Rougeur et enflure qui s'étendent de la plaie",
   "@infection3": {
     "description": "Infection image 3"
   },
@@ -580,11 +580,11 @@
   "@infection4": {
     "description": "Infection image 4"
   },
-  "infection5": "Rougeur et gonflement s'étendent de la plaie; écoulement épais jaune-vert",
+  "infection5": "Rougeur et enflure qui s'étendent de la plaie; écoulement épais jaune-vert",
   "@infection5": {
     "description": "Infection image 5"
   },
-  "infection6": "Peau est plus sombre et très enflée",
+  "infection6": "Peau plus sombre et très enflée",
   "@infection6": {
     "description": "Infection image 6"
   },
@@ -700,7 +700,7 @@
   "@ingrownNailPreventionHeader": {
     "description": "prevention for ingrown nails header"
   },
-  "ingrownNailPrevention": "● Coupez toujours vos ongles de pied avec un vrai coupe-ongles\n● Coupez vos ongles bien droit — ce n’est pas grave si les coins sont un peu plus longs\n● Ne pas arrondir les ongles, ça peut justement les faire courber\n● Utilisez une lime à ongles pour adoucir les coins pointus\n● Évitez de porter des souliers ou des bas trop serrés",
+  "ingrownNailPrevention": "● Coupez toujours vos ongles de pied avec un coupe-ongle approprié\n● Coupez vos ongles bien droit — ce n’est pas grave si les coins sont un peu plus longs\n● Ne pas arrondir les ongles, ça peut justement les faire courber\n● Utilisez une lime à ongles pour adoucir les coins pointus\n● Évitez de porter des souliers ou des bas trop serrés",
   "@ingrownNailPrevention": {
     "description": "prevention for ingrown nails"
   },
@@ -940,7 +940,7 @@
   "@sxOfInfectionHeader": {
     "description": "header for sx of infections"
   },
-  "sxOfInfection": "● La peau est rouge ou plus foncée que normale 🔴\n● Enflure\n● Sensation de chaleur 🔥\n● Douleur\n● Mauvaise odeur\n● Présence de pus (liquide épais, jaune, verdâtre ou gris)\n● Fièvre 🤒",
+  "sxOfInfection": "● La peau est rouge ou plus foncée que normale 🔴\n● Enflure\n● Sensation de chaleur 🔥\n● Douleur\n● Mauvaise odeur\n● Présence de pus (liquide épais jaune, verdâtre ou gris)\n● Fièvre 🤒",
   "@sxOfInfection": {
     "description": "sx of infections"
   },

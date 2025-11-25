@@ -4,7 +4,7 @@
   "@afPreventionHeader": {
     "description": "prevention af header"
   },
-  "afPrevention": "● Keep feet dry and clean\n● Change your socks often 🧦\n●Focus on drying the skin between the toes\n● You can use drying foot powders to help keep feet dry\n● When using shared showers, try to wear sandals or flip—flops 🩴\n● Do not share clothing or towels with others",
+  "afPrevention": "● Keep feet dry and clean\n● Change your socks often 🧦\n● Focus on drying the skin between the toes\n● You can use drying foot powders to help keep feet dry\n● When using shared showers, try to wear sandals or flip-flops 🩴\n● Do not share clothing or towels with others",
   "@afPrevention": {
     "description": "Prevention steps for athlete's foot"
   },
@@ -20,7 +20,7 @@
   "@afTx": {
     "description": "Treatment options for athlete's foot"
   },
-  "afimage1": "Visible red and irritated patches, especially around the toes; peeling skin",
+  "afimage1": "Red and irritated patches, especially around the toes; peeling skin",
   "@afimage1": {
     "description": "Athlete's foot image 1"
   },
@@ -104,7 +104,7 @@
   "@bitesImage2": {
     "description": "bite images"
   },
-  "bitesImage3": "Infected bite wound; deep redness and swelling are spreading over the leg",
+  "bitesImage3": "Infected bite wound; redness and swelling are spreading over the leg",
   "@bitesImage3": {
     "description": "bite images"
   },
@@ -112,7 +112,7 @@
   "@blister": {
     "description": "header for blisters"
   },
-  "blisterDef": "Blisters are caused by repeated rubbing on the foot (for example, by wearing ill—fitting shoes)",
+  "blisterDef": "Blisters are caused by repeated rubbing on the foot (for example, by wearing ill-fitting shoes)",
   "@blisterDef": {
     "description": "def for blisters"
   },
@@ -276,7 +276,7 @@
   "@callus": {
     "description": "header for callus"
   },
-  "callusDef": "Calluses are large patches of thickened skin. Corns are typically small, localized areas of hard skin that can be painful. Both occur because of repeated pressure or rubbing on the foot (for example, by wearing ill-fitting shoes)",
+  "callusDef": "Calluses are large patches of thickened skin. Corns are typically small, localized areas of hard skin that can be painful. Both occur because of repeated rubbing on the foot (for example, by wearing ill-fitting shoes)",
   "@callusDef": {
     "description": "def for header"
   },
@@ -572,7 +572,7 @@
   "@infection2": {
     "description": "Infection image 2"
   },
-  "infection3": "Redness & swelling spreading from wound; yellowish discharge",
+  "infection3": "Redness & swelling spreading from the wound",
   "@infection3": {
     "description": "Infection image 3"
   },
@@ -580,7 +580,7 @@
   "@infection4": {
     "description": "Infection image 4"
   },
-  "infection5": "Redness & swelling spreading from wound; thick, yellow-green discharge",
+  "infection5": "Redness & swelling spreading from the wound; thick, yellow-green discharge",
   "@infection5": {
     "description": "Infection image 5"
   },
@@ -828,7 +828,7 @@
   "@normalDischarge": {
     "description": "dialog box for normal vs abnormal discharge"
   },
-  "normalWound": "Normal wounds may have some redness and pain.\nThey might also have some discharge that is clear, light yellow or light pink",
+  "normalWound": "Normal wounds may have some redness and pain\nThey might also have some discharge that is clear, light yellow or light pink",
   "@normalWound": {
     "description": "normal wound info"
   },
@@ -844,7 +844,7 @@
   "@skinGeneralSummerHeader": {
     "description": "general skin maintenance — summer header"
   },
-  "skinGeneralSummer": "● Use hats 🧢, loose light-colored clothing, and stay in the shade\n● Wear sunscreen every day if you can, even if you have dark skin\n● Use sunscreen with an SPF of 30 or more. You need an amount of cream about the size of a 2$ coin to cover your face\n● Reapply sunscreen at least every 2 hours 🧴☀️\n● Stay hydrated by drinking water 💧",
+  "skinGeneralSummer": "● Use hats 🧢, loose and light-colored clothing, and stay in the shade\n● Wear sunscreen every day if you can, even if you have dark skin\n● Use sunscreen with an SPF of 30 or more. You need an amount of cream about the size of a 2$ coin to cover your face\n● Reapply sunscreen at least every 2 hours 🧴☀️\n● Stay hydrated by drinking water 💧",
   "@skinGeneralSummer": {
     "description": "general skin maintenance — summer"
   },
@@ -888,7 +888,7 @@
   "@sunburnSxHeader": {
     "description": "sunburn sx header"
   },
-  "sunburnSx": "● Redness 🔴\n● Skin is hot to the touch 🔥\n● Pain\n● Symptoms usually develop several hours after being in the sun and can last a few days\n● After a few days, skin will begin to peel, this is expected",
+  "sunburnSx": "● Redness 🔴\n● Skin is hot to the touch 🔥\n● Pain\n● Symptoms usually develop several hours after being in the sun and can last a few days\n● After a few days, skin will begin to peel, this is normal",
   "@sunburnSx": {
     "description": "sunburn sx"
   },
@@ -940,7 +940,7 @@
   "@sxOfInfectionHeader": {
     "description": "header for sx of infections"
   },
-  "sxOfInfection": "● Skin is red or darker than normal 🔴\n● Swelling\n● Warm feeling 🔥\n● Pain\n● Bad smell\n● Visible pus (thick, yellow, greenish or gray fluid)\n● Fever 🤒",
+  "sxOfInfection": "● Skin is red or darker than normal 🔴\n● Swelling\n● Warm feeling 🔥\n● Pain\n● Bad smell\n● Visible pus (thick yellow, greenish or gray fluid)\n● Fever 🤒",
   "@sxOfInfection": {
     "description": "sx of infections"
   },
